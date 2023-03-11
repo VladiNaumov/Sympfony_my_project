@@ -1,3 +1,3 @@
-# my_project
+# Sympwony_my_project
 
-demo project symfony
+заготовка проекта на symfony
