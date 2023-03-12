@@ -1,3 +1,3 @@
-# my_project
+# Sympfony_my_project
 
-demo project symfony
+заготовка проекта на symfony v6.2
